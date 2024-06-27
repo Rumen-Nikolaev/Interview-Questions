@@ -59,8 +59,13 @@ d) 404
 
 Отговорът: a) 200 
 
-
 8. Кое от следните НЕ е ограничение на REST архитектурата? 
+a) Statelessness
+b) Caching
+c) Code on demand
+d) Session management
+
+Отговорът: d) Session management
 
 
 
